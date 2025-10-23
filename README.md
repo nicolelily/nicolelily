@@ -32,7 +32,7 @@ I am a **Data Visualization Engineer** and **Analytics Consultant** specializing
 
 ## 💡 Fun Facts
 
-- 🐶 Dog mom. I have a 3-year-old pit bull named Potato.
+- 🐶 Dog mom. I have a 4-year-old pit bull named Potato.
 - 🌱 Vegan  
 - 🧘 Yoga teacher & practitioner
 
