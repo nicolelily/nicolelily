@@ -10,7 +10,7 @@ I am a **Data Visualization Engineer** and **Analytics Consultant** specializing
   SQL · Python · JavaScript · TypeScript · HTML · CSS
 
 - **Data Visualization:**  
-  Tableau Desktop · Tableau Prep · Tableau Server · Dataiku
+  Tableau Desktop · Tableau Prep · Tableau Server · Dataiku · Flourish · Datawrapper · JavaScript/Typescript with Observable Plot
 
 ---
 
