@@ -7,10 +7,10 @@ I am a **Data Visualization Engineer** and **Analytics Consultant** specializing
 ## 🛠️ Top Skills & Technologies
 
 - **Languages & Tools:**  
-  SQL · Python · JavaScript · TypeScript · HTML · CSS
+  SQL · Python · JavaScript · TypeScript · HTML · CSS · Dataiku · KNIME · Alteryx
 
 - **Data Visualization:**  
-  Tableau Desktop · Tableau Prep · Tableau Server · Dataiku · Flourish · Datawrapper · JavaScript/Typescript with Observable Plot
+  Tableau · Flourish · Datawrapper · Observable Plot
 
 ---
 
