@@ -26,7 +26,7 @@ I am a **Data Visualization Engineer** and **Analytics Consultant** specializing
 - [Bluesky](https://bsky.app/profile/nicoledesignsdata.com)
 - [Tableau Public profile](https://public.tableau.com/app/profile/nicole.mark/vizzes)
 - [Signal](https://nicolemark.info/signal)
-- [Book a 30-minute consultation](https://nicolemark.info/chat)
+- [Book a 30-minute consultation](https://calendar.app.google/NjUndzdHAFiRHXHVA)
 
 ---
 
